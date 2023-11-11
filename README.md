@@ -5,16 +5,11 @@ CHALLENGE - 01
 
 Voici Mon Arborescence : 
 
-Asset/
-css/
+static/
 style.css
 img/
-templates/
-C1promotion.html
-C2parityMessage.html
-C3dataProcessed.html
-C3userDataDisplay.html
-C3userInputForm.html
+template/
+template.html
 go.mod
 main.go
 
